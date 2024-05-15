@@ -1,6 +1,6 @@
 
-# AYURSATHI - Disease Detection and Ayurvedic Medicine Recommendation System
-AYURSATHI is a web application that uses machine learning algorithms to detect diseases from symptoms and recommend Ayurvedic medicine. The application uses two machine learning models, both of which use decision tree algorithms.
+# MediChoice - Disease Detection and Ayurvedic Medicine Recommendation System
+MediChoice is a web application that uses machine learning algorithms to detect diseases from symptoms and recommend Ayurvedic medicine. The application uses two machine learning models, both of which use decision tree algorithms.
 
 ### Installation
 To run the application, you will need to install the many packages, some main one like:
