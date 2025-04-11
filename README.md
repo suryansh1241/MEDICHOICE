@@ -29,7 +29,4 @@ The application uses two machine learning models to detect diseases and recommen
 2. Decision Tree Classifier: This model is trained on a dataset of diseases and their corresponding Ayurvedic medicines. Given a disease, the model recommends the most effective Ayurvedic medicine.
 
 ### Dataset
-The datasets used to train the machine learning models are available in the dataset directory of Nadun and Abdullah directory. The data.csv file contains a list of symptoms and their corresponding diseases, and the Drug prescription Dataset.csv file contains a list of diseases and their corresponding Ayurvedic medicines.
-
-### Contributing
-If you would like to contribute to this project, you can fork the repository and submit a pull request. Please make sure to follow the existing code style and include test cases for any new functionality.
+The datasets used to train the machine learning models are available in the dataset directory. The data.csv file contains a list of symptoms and their corresponding diseases, and the Drug prescription Dataset.csv file contains a list of diseases and their corresponding medicines.
